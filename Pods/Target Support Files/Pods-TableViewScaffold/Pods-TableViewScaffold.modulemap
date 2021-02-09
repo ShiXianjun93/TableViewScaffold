@@ -1,0 +1,6 @@
+framework module Pods_TableViewScaffold {
+  umbrella header "Pods-TableViewScaffold-umbrella.h"
+
+  export *
+  module * { export * }
+}
